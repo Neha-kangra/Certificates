@@ -4,11 +4,15 @@ This repository contains my certificates from virtual internships and a professi
 # Certificates
 
 1. Company Certificates
-   - Company 1 : TATA
-   - Company 2 : EY
-   - Company 3 : Deloitte
+   - TATA
+   - EY
+   - Deloitte
 
-2. Professional Badge
+2.Professional Programs & Platforms
+
+Interview Master – Interview Preparation Program
+
+3. Professional Badge
    - Deloitte Badge
 
 # Purpose
